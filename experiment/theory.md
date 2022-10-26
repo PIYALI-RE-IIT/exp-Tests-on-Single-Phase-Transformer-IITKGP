@@ -10,15 +10,13 @@
 <p style="text-align: center;"> <b> $$e_1=N_1(d \Phi_p)/dt$$</b></p>
 <p>&nbsp;</p>
 <p>&nbsp;&nbsp;&nbsp;Assuming sinusoidal time variation of the flux , let &nbsp;&nbsp;&nbsp; &nbsp; 
-<b> $$\Phi_p=\Phi_msin(\omega t)$$ </b>
-&nbsp;&nbsp; Then, 
-</p><br><br>
+<b> $$\Phi_p=\Phi_msin(\omega t)$$ </b> &nbsp;&nbsp; Then, </p><br><br>
 <p style="text-align: center;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b> $$e_1=N_1omegaphi_mcos(omegat)$$ </b>, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; where &nbsp;&nbsp; <b> $$omega=2pif$$ </b></p>
 <p style="text-align: justify;"><br>The r.m.s value of this voltage is given by :</p>
-<p style="text-align: center;"> <b> $$E_1=4.44fN_1phi_m$$ </b>
+<p style="text-align: center;"> <b> $$E_1=4.44fN_1\Phi_m$$ </b>
 <p>&nbsp;<br>Now if there is a secondary coil of `N_2` turns, wound on the same core, then by mutual induction an emf e<sub>2</sub> is developed therein. The r.m.s value of this voltage is given by :</p>
-<br><p style="text-align: center;"> <b> $$E_2=4.44fN_2phi'_m$$ </b></p>
-<br><P>Where $$phi'_m$$ is the maximum value of the (sinusoidal) flux linking the secondary coil( $$phi_s$$ ).</p>
+<br><p style="text-align: center;"> <b> $$E_2=4.44fN_2\Phi'_m$$ </b></p>
+<br><P>Where $$\Phi'_m$$ is the maximum value of the (sinusoidal) flux linking the secondary coil( $$phi_s$$ ).</p>
 <p>If it is assumed that $$phi_p=phi_s$$ then the primary and secondary emf bear the following ratio:</p>
 <br><p style="text-align: center;"> <b> $$e_1/e_2=E_1/E_2=N_1/N_2$$ </b></p>
 <br>
