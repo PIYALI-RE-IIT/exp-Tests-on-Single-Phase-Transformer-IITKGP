@@ -24,9 +24,12 @@
 <br><p style="text-align: center;"> <b> $$e_1/e_2=E_1/E_2=N_1/N_2$$ </b></p>
 <br>
 <p>Note that in actual practice, $$\Phi_p=\Phi_s$$ since some of the flux paths linking the primary coil do not link the secondary coil and similarly some of the flux paths linking the secondary coil do not link the primary coil. The fluxes which do not link both the coils are called "Leakage Fluxes" of the primary and secondary coil.&nbsp;
-<p>Although the iron core is highly permeable, it is not possible to generate a magnetic field in it without the application of a small m.m.f (magneto motive force, denoted by $$mmf$$ . 
-<br><br><p> <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $$P_h=K_hB_(max)^xf$$ </b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $$P_e=K_eB_(max)^2f^2$$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $$P_c=P_h+P_e$$ </b></p>
-<br><p> where P<sub>h</sub>,P<sub>e</sub>,P<sub>c</sub> are hysteresis, eddy current and core losses respectively, K<sub>h</sub> and K<sub>e</sub> are constants which depend upon on the magnetic material, and `B_max` is the maximum flux density in the core.</p>
+<p>Although the iron core is highly permeable, it is not possible to generate a magnetic field in it without the application of a small m.m.f (magneto motive force, denoted by mmf . 
+<br><br> 
+<p style="text-align: center;"> <b>$$P_h=K_hB_(max)^xf$$ </b></p> 
+<p style="text-align: center;"> <b>$$P_e=K_eB_(max)^2f^2$$ </b></p> 
+<p style="text-align: center;"> <b> $$P_c=P_h+P_e$$ </b> </p></p>
+<br><p> where P<sub>h</sub>,P<sub>e</sub>,P<sub>c</sub> are hysteresis, eddy current and core losses respectively, K<sub>h</sub> and K<sub>e</sub> are constants which depend upon on the magnetic material, and B<sub>max</sub> is the maximum flux density in the core.</p>
 <br><p><b><span style="background-color: rgb(255, 255, 0);">Equivalent Circuit of a Practical Transformer:&nbsp;&nbsp;</span> </b></p>
 <br>
 <p style="text-align: center;">
