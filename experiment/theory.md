@@ -10,8 +10,9 @@
 <p style="text-align: center;"> <b> $$e_1=N_1(d \Phi_p)/dt$$</b></p>
 <p>&nbsp;</p>
 <p>&nbsp;&nbsp;&nbsp;Assuming sinusoidal time variation of the flux , let &nbsp;&nbsp;&nbsp; &nbsp; 
-<b> $$\Phi_p=\Phi_msin(\omega t)$$ </b> &nbsp;&nbsp; Then, </p><br><br>
-<p style="text-align: center;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b> $$e_1=N_1omegaphi_mcos(omegat)$$ </b>, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; where &nbsp;&nbsp; <b> $$omega=2pif$$ </b></p>
+<b> $$\Phi_p=\Phi_msin({\omega}t)$$ </b> &nbsp;&nbsp; Then, </p><br><br>
+<p style="text-align: center;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<b> $$e_1=N_1\omega\Phi_mcos(\omega t)$$ </b>, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; where &nbsp;&nbsp; <b> $$\omega=2pif$$ </b></p>
 <p style="text-align: justify;"><br>The r.m.s value of this voltage is given by :</p>
 <p style="text-align: center;"> <b> $$E_1=4.44fN_1\Phi_m$$ </b>
 <p>&nbsp;<br>Now if there is a secondary coil of N<sub>2</sub> turns, wound on the same core, then by mutual induction an emf e<sub>2</sub> is developed therein. The r.m.s value of this voltage is given by :</p>
@@ -21,7 +22,7 @@
 <p>If it is assumed that $$\Phi_p=\Phi_s$$ then the primary and secondary emf bear the following ratio:</p>
 <br><p style="text-align: center;"> <b> $$e_1/e_2=E_1/E_2=N_1/N_2$$ </b></p>
 <br>
-<p>Note that in actual practice, $$phi_p=phi_s$$ since some of the flux paths linking the primary coil do not link the secondary coil and similarly some of the flux paths linking the secondary coil do not link the primary coil. The fluxes which do not link both the coils are called "Leakage Fluxes" of the primary and secondary coil.&nbsp;
+<p>Note that in actual practice, $$\Phi_p=\Phi_s$$ since some of the flux paths linking the primary coil do not link the secondary coil and similarly some of the flux paths linking the secondary coil do not link the primary coil. The fluxes which do not link both the coils are called "Leakage Fluxes" of the primary and secondary coil.&nbsp;
 <p>Although the iron core is highly permeable, it is not possible to generate a magnetic field in it without the application of a small m.m.f (magneto motive force, denoted by $$mmf$$ . 
 <br><br><p> <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $$P_h=K_hB_(max)^xf$$ </b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $$P_e=K_eB_(max)^2f^2$$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $$P_c=P_h+P_e$$ </b></p>
 <br><p> where P<sub>h</sub>,P<sub>e</sub>,P<sub>c</sub> are hysteresis, eddy current and core losses respectively, K<sub>h</sub> and K<sub>e</sub> are constants which depend upon on the magnetic material, and `B_max` is the maximum flux density in the core.</p>
