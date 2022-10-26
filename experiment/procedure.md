@@ -26,7 +26,7 @@
 Under no-load condition the power input to the transformer is equal to the sum of losses in the primary winding resistance R<sub>1</sub> is neglected and core loss. Since, no load current is very small,the loss in winding resistance is neglected. If I<sub>o</sub> and P<sub>i</sub> are the current and input power drawn by the transformer at rated voltage V<sub>1</sub> respectively.Then,</p>
 <br>
 				<p style="text-align: center;"> <b> $$coszeta_o=P_i/(V_1*I_o)$$ </b></p><br>
-							<p style="text-align: center;"> <b> $$I_c=I_o*coszeta_o$$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $$I_m=I_o*sinzeta_o$$ </b></p><br>
+							<p style="text-align: center;"> <b> $$I_c=I_o*cos\zeta_o$$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $$I_m=I_o*sin\zeta_o$$ </b></p><br>
 						    <p style="text-align: center;"> <b> $$R_o=V_1/I_c$$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $$X_m=V_1/I_m$$ </b></p><br><br>
 							<p><span style="text-align:left; background-color: rgb(255, 255, 0);"><strong>Equivalent circuit diagram for open circuit test:</strong></span></p><br>
 							<p style="text-align: center;"> 
@@ -57,8 +57,8 @@ Under no-load condition the power input to the transformer is equal to the sum o
 							<br>
 							<p style="text-align: center;"> <b> $$Z_(sc)=V_(sc)/(I'_2)$$ </b></p><br>
 							<p style="text-align: center;"> <b> $$costheta=P_c/(V_(sc)*I'_2)$$ </b></p><br>
-							<p style="text-align: center;"> <b> $$R_1+R'_2=Z_(sc)*costheta$$ </b></p><br>
-							<p style="text-align: center;"> <b> $$X_1+X'_2=Z_(sc)*sintheta$$ </b></p><br>
+							<p style="text-align: center;"> <b> $$R_1+R'_2=Z_(sc)*cos\theta$$ </b></p><br>
+							<p style="text-align: center;"> <b> $$X_1+X'_2=Z_(sc)*sin\theta$$ </b></p><br>
 							<p><span style="text-align:left; background-color: rgb(255, 255, 0);"><strong>Equivalent circuit diagram for short circuit test:</strong></span></p><br>
 							<p style="text-align: center;"> 
                                 <img src="images/tx_short.jpg" style="height: 70%; width: 70%;"><br>
