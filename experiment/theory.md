@@ -12,8 +12,8 @@
 <p>&nbsp;&nbsp;&nbsp;Assuming sinusoidal time variation of the flux , let &nbsp;&nbsp;&nbsp; &nbsp; 
 &nbsp;&nbsp; Then, </p><br><br>
 <p style="text-align: center;"> <b> $$\Phi_p=\Phi_msin({\omega}t)$$ </b>  
-<br/> <b> $$e_1=N_1\omega\Phi_mcos(\omega t)$$ </b>
-<br/> <b> $$\omega=2pif$$ </b></p>
+<b> $$e_1=N_1\omega\Phi_mcos(\omega t)$$ </b>
+<b> $$\omega=2pif$$ </b></p>
 <p style="text-align: justify;"><br>The r.m.s value of this voltage is given by :</p>
 <p style="text-align: center;"> <b> $$E_1=4.44fN_1\Phi_m$$ </b>
 <p>&nbsp;<br>Now if there is a secondary coil of N<sub>2</sub> turns, wound on the same core, then by mutual induction an emf e<sub>2</sub> is developed therein. The r.m.s value of this voltage is given by :</p>
