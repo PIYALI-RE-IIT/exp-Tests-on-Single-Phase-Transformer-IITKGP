@@ -10,7 +10,8 @@
 <p style="text-align: center;"> <b> $$e_1=N_1(d \Phi_p)/dt$$</b></p>
 <p>&nbsp;</p>
 <p>&nbsp;&nbsp;&nbsp;Assuming sinusoidal time variation of the flux , let &nbsp;&nbsp;&nbsp; &nbsp; 
-<b> $$\Phi_p=\Phi_msin(wt)$$</b>.&nbsp;&nbsp; Then, 
+<b> $$\Phi_p=\Phi_msin(wt)$$</b>
+&nbsp;&nbsp; Then, 
 </p><br><br>
 <p style="text-align: center;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b> $$e_1=N_1omegaphi_mcos(omegat)$$ </b>, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; where &nbsp;&nbsp; <b> $$omega=2pif$$ </b></p>
 <p style="text-align: justify;"><br>The r.m.s value of this voltage is given by :</p>
