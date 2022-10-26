@@ -5,13 +5,14 @@
 <img src="images/transformer elementary 16.jpg" style="height: 50%; width: 70%;">
 <br>[Figure 1]</p>
 <p>&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;Let an alternating voltage V<sub>1</sub> be applied to primary coil of N<sub>1</sub> turns linking a suitable iron core. A current flows in the coil , establishing a flux <b> $$ \Phi$$ </b> in the core.  This flux induces an emf e<sub>1</sub> in the coil to counter balance the applied voltage V<sub>1</sub>. This emf is</p>
+<p>&nbsp;&nbsp;&nbsp;Let an alternating voltage V<sub>1</sub> be applied to primary coil of N<sub>1</sub> turns linking a suitable iron core. A current flows in the coil , establishing a flux
+ <b> &phi; </b> in the core.  This flux induces an emf e<sub>1</sub> in the coil to counter balance the applied voltage V<sub>1</sub>. This emf is</p>
 <p style="text-align: center;"> <b> $$e_1=N_1(d \Phi_p)/dt$$</b></p>
 <p>&nbsp;</p>
 <p>&nbsp;&nbsp;&nbsp;Assuming sinusoidal time variation of the flux , let &nbsp;&nbsp;&nbsp; &nbsp; 
-<b> $$ \Phi_p= \Phi_msin(omegat)$$ </b>.&nbsp;&nbsp; Then, 
+<b> $$ &phi;_p= &phi;_msin(omegat)$$ </b>.&nbsp;&nbsp; Then, 
 </p><br><br>
-<p style="text-align: center;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b> $$e_1=N_1omegaphi_mcos(omegat)$$ </b>, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; where &nbsp;&nbsp; <b> $$omega=2pif$$ </b></p>
+<p style="text-align: center;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b> $$e_1=N_1omega&phi;_mcos(omegat)$$ </b>, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; where &nbsp;&nbsp; <b> $$omega=2pif$$ </b></p>
 <p style="text-align: justify;"><br>The r.m.s value of this voltage is given by :</p>
 <p style="text-align: center;"> <b> $$E_1=4.44fN_1phi_m$$ </b>
 <p>&nbsp;<br>Now if there is a secondary coil of `N_2` turns, wound on the same core, then by mutual induction an emf e<sub>2</sub> is developed therein. The r.m.s value of this voltage is given by :</p>
