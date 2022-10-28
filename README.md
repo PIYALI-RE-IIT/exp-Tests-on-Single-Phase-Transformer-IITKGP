@@ -7,7 +7,7 @@
   <b>Discipline | <b> Electrical Engineering 
 :--|:--|
 <b> Lab | <b> **Analog Signals, Network and Measurement Laboratory Virtual Lab**
-<b> Experiment|     <b> **Tests on Single Phase Transformer and Experiment 8**
+<b> Experiment|     <b> **Tests on Single Phase Transformer and section A Experiment 8**
 
 
 <b>Name of Developer | <b> **Prof. Alok Kanti Deb**
